@@ -18,6 +18,7 @@ items:
  - undertheseanlp/underthesea
  - tiepvupsu/tabml_book
  - hoanhan101/algo
+ - TensorSpeech/TensorFlowTTS
  - vinbigdata-medical/vindr-lab
  - h1st-ai/h1st
  - vanhuyz/CycleGAN-TensorFlow
