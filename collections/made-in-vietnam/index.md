@@ -19,17 +19,18 @@ items:
  - tiepvupsu/tabml_book
  - hoanhan101/algo
  - vinbigdata-medical/vindr-lab
+ - h1st-ai/h1st
  - vanhuyz/CycleGAN-TensorFlow
  - TablePlus/TablePlus
  - khangich/machine-learning-interview
- - huytd/agar.io-clone
- - opencardev/crankshaft
  - binhnguyennus/awesome-scalability
  - hoanhan101/ultimate-go
- - ProxymanApp/Proxyman
  - bangoc123/learn-machine-learning-in-two-months
- - phuoc-ng/csslayout
+ - huytd/agar.io-clone
  - nguyenquangminh0711/ruby_jard
+ - opencardev/crankshaft
+ - phuoc-ng/csslayout
+ - ProxymanApp/Proxyman
  - phuoc-ng/1loc
  - BambooEngine/ibus-bamboo
 display_name: Made in Vietnam
