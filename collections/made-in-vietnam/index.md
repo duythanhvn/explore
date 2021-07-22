@@ -13,6 +13,7 @@ items:
  - blei-lab/edward
  - ZuzooVn/machine-learning-for-software-engineers
  - chiphuyen/ml-interviews-book
+ - https://genome.vinbigdata.org/
  - huytd/kanban-app
  - undertheseanlp/underthesea
  - tiepvupsu/tabml_book
